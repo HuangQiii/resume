@@ -137,5 +137,4 @@
 - 语言： 英语（6级）
 - 技能： PPT（熟练制作，尤其是动画）、Photoshop/Sketch（简单使用）
 - 兴趣爱好： 游泳、旅游、阅读（翻译一些简单的文档）、记录分享
-
-
+- GitHub： https://github.com/HuangQiii
